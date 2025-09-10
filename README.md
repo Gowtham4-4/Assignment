@@ -15,9 +15,6 @@ Here’s a quick look at the live site:
 
 ![Live Preview](screenshot.png)
 
-*(Replace `screenshot.png` with the actual path of your screenshot in the repo,  
-or use a direct image link if hosted online, e.g., `https://i.imgur.com/abcd123.png`)*  
-
 ---
 
 ## 📌 Features
@@ -37,3 +34,8 @@ or use a direct image link if hosted online, e.g., `https://i.imgur.com/abcd123.
 - **Git & GitHub** for version control and hosting  
 
 ---
+##References
+- ChatGPT (for code generation and integration)
+- Bootstrap 5 Documentation (https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+-Netlify:deployment
+
