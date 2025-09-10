@@ -37,5 +37,3 @@ or use a direct image link if hosted online, e.g., `https://i.imgur.com/abcd123.
 - **Git & GitHub** for version control and hosting  
 
 ---
-
-## 📂 Project Structure
