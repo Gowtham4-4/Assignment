@@ -37,5 +37,5 @@ Here’s a quick look at the live site:
 ##References
 - ChatGPT (for code generation and integration)
 - Bootstrap 5 Documentation (https://getbootstrap.com/docs/5.3/getting-started/introduction/)
--Netlify:deployment
+- Netlify:deployment
 
